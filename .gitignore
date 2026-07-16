@@ -1,0 +1,4 @@
+profile_ids.txt
+prompts.json
+__pycache__/
+*.py[cod]
